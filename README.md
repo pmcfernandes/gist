@@ -20,7 +20,7 @@ List of some classes usefull for various programming tasks
 
 + Transform normal image Bitmap in Sepia image [Link](https://gist.github.com/pmcfernandes/8261130)
 
-### C#
+### C Sharp
 
 + Comparer to compare lists in C# and .NET 2.0 [Link](https://gist.github.com/pmcfernandes/7acdb6a799b8704f54b3186b7e75f236)
 
