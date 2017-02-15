@@ -6,7 +6,7 @@ List of some script to admin Linux machines
 
 + Install Webmin and Lamp on Ubuntu Server [Link](https://gist.github.com/pmcfernandes/5ed6c3441f05c16fd99c)
 + Install iRedMail in Ubuntu [Link](https://gist.github.com/pmcfernandes/1a3725688e20e703f86c)
-+ Configure Sendmail to not accept / send SPAM messahes [Link](https://gist.github.com/pmcfernandes/607a6686dea712429faf)
++ Configure Sendmail to not accept / send SPAM messages [Link](https://gist.github.com/pmcfernandes/607a6686dea712429faf)
 
 ## Powershell
 List of some scripts to admin Windows servers
